@@ -2,7 +2,8 @@
 zjiang2@illinois.edu <br>
 
 ### Reproduce of paper:
-[Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources](https://dl.acm.org/doi/10.1145/3308558.3313485)
+[Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources](https://dl.acm.org/doi/10.1145/3308558.3313485) <br>
+WWW '19: The World Wide Web Conference, Pages 72–82
 
 ### Instructions:
 1. Download MIMIC-III from PhysioNet. Only need NOTEEVENTS.csv and DIAGNOSES_ICD.csv
