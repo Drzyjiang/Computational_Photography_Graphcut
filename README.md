@@ -11,7 +11,7 @@ WWW '19: The World Wide Web Conference, Pages 72–82
 3. Optional: Pretrained models (weights) are available at this [this link](https://drive.google.com/drive/folders/1331SQDUL_ZDvwec0IeSkSHpiRfC7u8se?usp=sharing) 
 4. In Part 0, change 'dir_path' to actual directory path, and change 'device' to appropriate device
    To use the pretrained models, set 'load_pretrain' as True
-5. Run the notebook
+5. Run Final project.ipynb as Jupyter Notebook
 
 ### Code structures:
 This notebook has seven parts: <br>
